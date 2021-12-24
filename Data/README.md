@@ -1,8 +1,4 @@
-<div align="center">
-	<img src="images/logo.png" height="200" align="center">
-<br/>
-Airline Passenger Satisfaction
-</div>
+#Airline Passenger Satisfaction
 
 ## About The Project
 
