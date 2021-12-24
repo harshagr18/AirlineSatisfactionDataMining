@@ -1,21 +1,19 @@
 # Airline Passenger Satisfaction
 
-## About The Project
-
 Airline passengers often times experience a less than satisfying travel experience despite efforts avoid a bad experience (seat selection, travel class type, Wi-Fi, food options). There is an opportunity for airlines operating in the industry to improve their overall service across the board to help optimize passenger satisfaction, therefore it is key for airlines to understand which factors play a role in this. The objective is to predict the satisfaction of an airline passengers based on their respective different taggings and customer feedback. We also understand the categories (feedback and taggings) which have a larger influence/impact upon passenger satisfaction across the board.
 
-## Architecture
+### Architecture
 
 <div align="center">
 <img src="Heatmap.JPG" align="center">
 </div>
 <br><br><br>
 
-## Software Requirements
+### Software Requirements
 
 - Rstudio
 
-## Conclusions
+### Conclusions
 
 - Half of the customers travelling in business class were observed to be loyal customers whereas this ratio is almost 10% lower in the economic class. This suggests, more benefits need to be provided to economic class passengers to try convert them into loyal customers.
 - Within the Economy class, only 18% of Loyal customers are satisfied, where 34% of regular passengers are satisfied. Therefore, can airlines provide better service/benefits to their regular passenger flying Economy class. On the contrary, Business class passengers that were loyal customer (78%) were more satisfied than regular customers (65%).
@@ -28,4 +26,3 @@ Airline passengers often times experience a less than satisfying travel experien
 <div align="center">
 <img src="inference.JPG" align="center">
 </div>
-<br><br><br>
