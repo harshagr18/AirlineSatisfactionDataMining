@@ -1,8 +1,4 @@
-<div align="center">
-	<img src="images/logo.png" height="200" align="center">
-<br/>
-Airline Passenger Satisfaction
-</div>
+# Airline Passenger Satisfaction
 
 ## About The Project
 
@@ -11,13 +7,13 @@ Airline passengers often times experience a less than satisfying travel experien
 ## Architecture
 
 <div align="center">
-<img src="Heatmap.jpeg" align="center">
+<img src="Heatmap.jpg" align="center">
 </div>
 <br><br><br>
 
 ## Software Requirements
 
-- \*_Rstudio_
+- Rstudio
 
 ## Conclusions
 
@@ -30,7 +26,6 @@ Airline passengers often times experience a less than satisfying travel experien
 - 1.1% of the training dataset were customers below the age of 14 were observed to be travelling under “Business Travel”. This was an anomaly in the dataset.
 
 <div align="center">
-<img src="inference.jpeg" align="center">
+<img src="inference.jpg" align="center">
 </div>
 <br><br><br>
-*
