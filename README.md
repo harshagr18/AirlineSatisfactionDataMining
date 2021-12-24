@@ -7,7 +7,7 @@ Airline passengers often times experience a less than satisfying travel experien
 ## Architecture
 
 <div align="center">
-<img src="Heatmap.jpg" align="center">
+<img src="Heatmap.JPG" align="center">
 </div>
 <br><br><br>
 
@@ -26,6 +26,6 @@ Airline passengers often times experience a less than satisfying travel experien
 - 1.1% of the training dataset were customers below the age of 14 were observed to be travelling under “Business Travel”. This was an anomaly in the dataset.
 
 <div align="center">
-<img src="inference.jpg" align="center">
+<img src="inference.JPG" align="center">
 </div>
 <br><br><br>
